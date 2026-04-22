@@ -208,8 +208,3 @@ Le cache est invalidé automatiquement dès qu'un fichier est modifié, ajouté 
 ---
 
 
----
-
-## 📄 Licence
-
-MIT — voir [LICENSE](LICENSE).
